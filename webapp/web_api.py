@@ -31,4 +31,3 @@ def api_get_spot():
 
 if __name__ == "__main__":
     app.run_server(debug=True)
-    #test uploading
